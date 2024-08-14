@@ -5,4 +5,6 @@ This repo is the official implementation of ["Deep Learning-based 12-Lead Electr
 python train_classfication.py
 ```
 ## Regression Task
-`python train_regression.py`
+```python 
+python train_regreesion.py
+```
