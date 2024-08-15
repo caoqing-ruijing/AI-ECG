@@ -3,10 +3,10 @@ This repo is the official implementation of ["Deep Learning-based 12-Lead Electr
 ## Classification Task
 to train for the classification: 
 ```python 
-python classification/train_classfication.py
+python classification/train_classification.py
 ```
 ## Regression Task
 to train for the regression:
 ```python 
-python regression/train_regreesion.py
+python regression/train_regression.py
 ```
